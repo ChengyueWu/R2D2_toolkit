@@ -17,8 +17,10 @@ Users are encouraged to download part of or the whole dataset according to their
 
 
 
-More detail on the information regarding how to download, visualize and use data involved in the R2D2 toolkit can be found in the Documentation, R2D2_A_Dynamic Digital_Phantom_Documentation.pdf. To cite this documentation, please use:
-[REF]: (Preprint @ arXiv)
+More detail on the information regarding how to download, visualize and use data involved in the R2D2 toolkit can be found in the Documentation, R2D2_A_Dynamic Digital_Phantom_Documentation.pdf. 
+
+To cite this documentation, please use: [REF]: (Preprint @ arXiv)
+
 
 Further questions and discussion are welcome through the repository, or via email (cw35926@utexas.edu).
 
