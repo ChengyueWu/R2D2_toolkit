@@ -7,7 +7,7 @@ May, 2021
 
 R2D2 Dynamic Digital Phantom is designed to mimic realistic perfusion and contrast agent delivery in rat kidney. Specifically, this phantom provides a realistic representation of a detailed arterial vascular network, physical tissue properties, and a spatiotemporal-resolved distribution of contrast agent obtained by mechanism-based modeling. It can be used as inputs and group-truth for validation and evaluation of imaging techniques, especially perfusion-based or contrast-enhanced modalities. Readers are encouraged to refer to the associated paper for details on methods constructing the phantom. 
 
-[REF]: Wu C, Hormuth DA, Easley T, Pineda F, Eijkhout V, Karczmar GS, Yankeelov TE. "An in silico validation framework of quantitative DCE-MRI techniques based on digital phantom". (Under review)
+[REF]: Wu C, Hormuth II DA, Easley T, Eijkhout V, Pineda F, Karczmar GS, Yankeelov TE. An in silico validation framework for quantitative DCE-MRI techniques based on a dynamic digital phantom. Medical Image Analysis. 2021 Jul 20:102186.
 
 
 
